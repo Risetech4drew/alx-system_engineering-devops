@@ -12,4 +12,8 @@ Changes the working directory to the users home directory
 
 4) ./3-listfiles
 
-the script command automates the display of contents of the working directory in long format 
+the script command automates the display of contents of the working directory in long format
+
+5) ./4-listmorefiles
+
+this shell script displays the contents of the directory including hidden files in long format  
