@@ -10,4 +10,6 @@ this script command automates the listing of contents in the current working dir
 
 Changes the working directory to the users home directory
 
- 
+4) ./3-listfiles
+
+the script command automates the display of contents of the working directory in long format 
