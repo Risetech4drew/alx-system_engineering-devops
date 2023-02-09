@@ -20,4 +20,10 @@ this shell script displays the contents of the directory including hidden files 
 
 6) ./5-listfilesdigitonly
 
-this script command displays the contents of working directory in long format,  user and group id numerically and hidden files starting with . 
+this script command displays the contents of working directory in long format,  user and group id numerically and hidden files starting with .
+
+7) ./6-firstdirectory
+
+this shell script creates a directiory in /tmp directory
+
+ 
