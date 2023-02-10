@@ -1,0 +1,12 @@
+#!/bin/bash
+echo "list of files in currented directory including hidden files"
+ls -al .
+
+echo "files in parent directory including files with (.)"
+
+cd ..
+ls -al .
+
+echo "files in /boot directory"
+cd /boot
+ls -al .
